@@ -9,6 +9,8 @@ return {
 	-- User Interface --
 	{ "nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
 
+  { 'mbbill/undotree' },
+
 	{
 		"nvim-lualine/lualine.nvim",
 		dependencies = { "nvim-tree/nvim-web-devicons" },
