@@ -11,6 +11,8 @@ return {
 
   { 'mbbill/undotree' },
 
+  { 'tpope/vim-fugitive' },
+
 	{
 		"nvim-lualine/lualine.nvim",
 		dependencies = { "nvim-tree/nvim-web-devicons" },
