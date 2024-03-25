@@ -14,9 +14,9 @@ DEFAULT_CONFIG.setup({
 		always_divide_middle = true,
 		globalstatus = false,
 		refresh = {
-			statusline = 300,
-			tabline = 300,
-			winbar = 300,
+			statusline = 4000,
+			tabline = 4000,
+			winbar = 4000,
 		},
 	},
 	sections = {
