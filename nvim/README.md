@@ -11,4 +11,4 @@ I was able to set up this configuration without too many headaches, thanks to:
 
 ## Resources
 
-For those unfamiliar with the NeoVim ecosystem, I'd recommend watching the [The Only Video You Need to Get Started with Neovim](https://www.youtube.com/watch?v=m8C0Cq9Uv9o) video by [TJ DeVries](https://www.youtube.com/@teej_dv).
+For those unfamiliar with the NeoVim ecosystem, I'd higly recommend watching the [The Only Video You Need to Get Started with Neovim](https://www.youtube.com/watch?v=m8C0Cq9Uv9o) video by [TJ DeVries](https://www.youtube.com/@teej_dv).

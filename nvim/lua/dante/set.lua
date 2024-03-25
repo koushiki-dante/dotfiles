@@ -33,7 +33,7 @@ local DEFAULT_CONFIG = {
   signcolumn = "yes",
   colorcolumn = "80",
 
-  updatetime = 400,
+  updatetime = 300,
   mouse = "a",
 }
 
